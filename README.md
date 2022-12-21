@@ -21,7 +21,7 @@
    你需要在config.py同级目录下新建一个config.json文件
 
    1) openai-key可以在[openai](https://beta.openai.com/)获取
-   2) app_id和app_secret可以在[https://www.free-api.com/doc/577](https://www.free-api.com/doc/577)
+   2) app_id和app_secret可以在[free-api](https://www.free-api.com/doc/577)
    3) gaode_key可以在[高德](https://console.amap.com/)获取
 
    ```json
